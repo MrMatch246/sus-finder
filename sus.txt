@@ -1,0 +1,3 @@
+extended-grep-pattern|severity0-10|filetype_or_None|None or {"optional":{"endianess":"unused_but_for_easy_extensions"}}
+eval|8|None|None
+timeit|5|py|None
