@@ -1,0 +1,28 @@
+{
+  "config": {
+    "results_path": "full/path/to/result/folder",
+    "max_concurrent": 0
+  },
+  "services": {
+    "service1": {
+      "full_path": "full/path/to/service1/folder",
+      "type": "optional_unsupported_service_type_for_future_use"
+    },
+    "service2": {
+      "full_path": "full/path/to/service2/folder",
+      "type": "optional_unsupported_service_type_for_future_use"
+    },
+    "service3": {
+      "full_path": "full/path/to/service3/folder",
+      "type": "optional_unsupported_service_type_for_future_use"
+    },
+    "service4": {
+      "full_path": "full/path/to/service4/folder",
+      "type": "optional_unsupported_service_type_for_future_use"
+    },
+    "service5": {
+      "full_path": "full/path/to/service5/folder",
+      "type": "optional_unsupported_service_type_for_future_use"
+    }
+  }
+}
