@@ -1,7 +1,7 @@
 # sus-finder
 Find suspiciouns strings in services
 
-Usage: python3 sus-finder.py [path/to/config.json] 
+Usage: python3 sus_finder.py [path/to/config.json] 
 
 Output will be located in per service seperated txt files
 in the specified output folder if existent or otherwise in repo/results
