@@ -1,3 +1,21 @@
 extended-grep-pattern|severity0-10|filetype_or_None|None or {"optional":{"endianess":"unused_but_for_easy_extensions"}}
 " eval("|8|None|None
 " timeit"|5|py|None
+"\`"|8|php|None
+" file_get_contents("|5|php|None
+" extract("|6|php|None
+" shell_exec("|8|php|None
+" passthru("|8|php|None
+" system("|8|php|None
+" unserialize("|8|php|None
+" maybe_unserialize("|8|php|None
+" esc_sql("|8|php|None
+" create_function("|7|php|None
+" new ReflectionFunction"|7|php|None
+" call_user_func("|8|php|None
+" parse_str("|5|php|None
+" putenv("|7|php|None
+" highlight_file("|4|php|None
+" phpinfo("|4|php|None
+" hash_hmac"|6|php|None
+" md5("|6|php|None
